@@ -1,0 +1,5 @@
+com/example/urlshortener/UrlshortenerApplication.class
+com/example/urlshortener/UrlMappingRepository.class
+com/example/urlshortener/UrlShortenerController.class
+com/example/urlshortener/model/UrlMapping.class
+com/example/urlshortener/TestController.class

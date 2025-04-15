@@ -1,2 +1,2 @@
-# url-shortener
- My first project using Java, SpringBoot & SQL
+# URLShortner
+First Project using Java, SpringBoot and MySQL
